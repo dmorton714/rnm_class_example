@@ -1,0 +1,1 @@
+# rnm_class_example
