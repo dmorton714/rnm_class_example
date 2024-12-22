@@ -8,7 +8,9 @@ This project loads, cleans, and visualizes data related to species distribution 
     - A pie chart of species distribution and human vs non-human distribution.
     - A bar chart showing the breakdown of species, highlighting the most popular species.
 
-![Diagram]("https://github.com/dmorton714/rnm_class_example/blob/main/images/rnm.pdf")
+![Diagram](https://github.com/dmorton714/rnm_class_example/raw/main/images/rnm.png)
+
+
 
 ### Clone the repository:
 
