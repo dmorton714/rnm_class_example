@@ -9,7 +9,7 @@ This project loads, cleans, and visualizes data related to species distribution 
     - A bar chart showing the breakdown of species, highlighting the most popular species.
 
 
-[Diagram](https://raw.githubusercontent.com/dmorton714/rnm_class_example/main/images/rnm.png)
+[Diagram](https://github.com/dmorton714/rnm_class_example/blob/main/images/rnm.pdf)
 
 
 
