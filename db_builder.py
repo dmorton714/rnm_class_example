@@ -15,7 +15,7 @@ def building_db() -> None:
     Returns:
         None
     """
-    csv_path: str = "../rick_n_morty_prod/data/rick_n_morty.csv"
+    csv_path: str = "rick_n_morty_prod/data/rick_n_morty.csv"
     api_endpoint: str = "https://rickandmortyapi.com/api/character"
 
     # Load or fetch the data (assumes a function exists to either read from a CSV or fetch from an API)

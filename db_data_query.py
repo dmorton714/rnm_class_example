@@ -15,7 +15,7 @@ def data_pull() -> pd.DataFrame:
         pd.DataFrame: The data from the 'episodes' table.
     """
     # Connect to the database
-    conn: sqlite3.Connection = sqlite3.connect('../rnm.db')
+    conn: sqlite3.Connection = sqlite3.connect('rick_n_morty_prod/rnm.db')
 
     # Execute the query
     query: str = "SELECT * FROM episodes"
